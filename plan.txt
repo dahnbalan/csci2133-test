@@ -1,0 +1,3 @@
+This file is created for the purpose of assignment 2 in CSCI 2133. 
+The name of this file is plan.txt
+This is to answer question 5 of Assignment 2. 
